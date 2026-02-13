@@ -1,8 +1,9 @@
-Origin: ThanhMeHack Repo
+Origin: ThanhMeHack
 Label: ThanhMeHack Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: My personal repo
+Description: Repo by ThanhMeHack
+Icon: https://phuocthanh1409.github.io/repo/peter.png
