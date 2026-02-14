@@ -1,0 +1,32 @@
+{
+"class":"DepictionTabView",
+"minVersion":"0.4",
+"tabs":[
+{
+"class":"DepictionStackView",
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"itemCornerRadius":6,
+"itemSize":"{160, 346}",
+"screenshots":[
+{"accessibilityText":"Screenshot","url":"https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/1.png"},
+{"accessibilityText":"Screenshot","url":"https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/2.png"},
+{"accessibilityText":"Screenshot","url":"https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/3.png"}
+]
+},
+{
+"class":"DepictionMarkdownView",
+"useSpacing":true,
+"markdown":"**Six (LS)** mang giao diện màn hình khóa cổ điển iOS 6 trở lại trên iOS hiện đại.\n\nTính năng:\n• Slide to unlock\n• Thông báo kiểu iOS 6\n• Hiệu ứng sạc pin\n• Âm thanh mở khóa\n• Và nhiều hơn nữa!"
+},
+{"class":"DepictionSeparatorView"},
+{"class":"DepictionHeaderView","title":"Thông tin"},
+{"class":"DepictionTableTextView","title":"Developer","text":"ThanhMeHack"},
+{"class":"DepictionTableTextView","title":"Phiên bản","text":"1.1"},
+{"class":"DepictionTableTextView","title":"Hỗ trợ iOS","text":"11.0 - 16.5"}
+]
+}
+]
+}
