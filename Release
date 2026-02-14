@@ -5,4 +5,6 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: My personal repo
+Description: Hello, đây là repo đầu tiên của tôi!
+Icon: 
+https://phuocthanh1409.github.io/repo/CydiaIcon.png
