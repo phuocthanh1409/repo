@@ -23,7 +23,7 @@
 },
 {"class":"DepictionSeparatorView"},
 {"class":"DepictionHeaderView","title":"Thông tin"},
-{"class":"DepictionTableTextView","title":"Developer","text":"ThanhMeHack"},
+{"class":"DepictionTableTextView","title":"Developer","text":"Skitty"},
 {"class":"DepictionTableTextView","title":"Phiên bản","text":"1.1"},
 {"class":"DepictionTableTextView","title":"Hỗ trợ iOS","text":"11.0 - 16.5"}
 ]
