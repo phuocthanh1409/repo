@@ -1,0 +1,40 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://poomsmart.github.io/repo/assets/com.ps.amber/screenshot1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useSpacing": true,
+          "markdown": "**Amber** giúp đổi màu đèn flash sang màu hổ phách (amber) để dịu mắt hơn khi dùng trong bóng tối.\n\nTính năng:\n• Đổi màu flash sang vàng ấm\n• Giảm chói mắt\n• Nhẹ và ổn định"
+        },
+        { "class": "DepictionSeparatorView" },
+        { "class": "DepictionHeaderView", "title": "Thông tin" },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "PoomSmart"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.2.4"
+        }
+      ]
+    }
+  ]
+}
