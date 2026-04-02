@@ -35,3 +35,23 @@ Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
 Name: Six (LS)
 Sileodepiction: https://phuocthanh1409.github.io/repo/depictions/xyz.skitty.sixls/sileo.json
 
+Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./1.5.37-Beta4-rootless.deb
+Size: 1128570
+MD5sum: a7239a85eee273dc2f297878702a97b8
+SHA1: 1b3e80eb10ea03f6ed54f23262789ef37aa02656
+SHA256: 21c4686ced56eede121bc91efcaae27dc2c553857b565351361cd1ae772929d0
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+Depiction: https://phuocthanh1409.github.io/repo/depictions/com.spark.snowboard/sileo.json
+Sileodepiction: https://phuocthanh1409.github.io/repo/depictions/com.spark.snowboard/sileo.json
