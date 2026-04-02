@@ -1,0 +1,15 @@
+{
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**SnowBoard** giúp đổi icon, theme iPhone cực đẹp 😎\n\n• Hỗ trợ nhiều theme\n• Tương thích iOS 15 rootless\n• Nhẹ và mượt"
+        }
+      ]
+    }
+  ]
+}
